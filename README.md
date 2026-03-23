@@ -1,4 +1,4 @@
-# Definition of a peer-reviwed formalization 
+# Definition of a peer-reviewed formalization 
 
 See the dicussion below for more context: 
 
