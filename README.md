@@ -10,7 +10,7 @@ Importantly, the peer-review of a paper describing a formalisation does not nece
 
 ## The definition 
 
-Within the context of Lean, a peer-reviewed formalisation is Lean code which has been deemed satisfactory by an independent named (directly or by association with an established body) Lean expert in the following areas: 
+Within the context of Lean, a peer-reviewed formalisation is Lean code which has been deemed satisfactory by one or more independent named (directly or by association with an established body) Lean experts in the following areas: 
 
 1. Reusability: Whether the code is designed in a way that makes it easy for subsequent projects to build upon.
 2. Organisation: For example, if theorems and definitions appear in natural places within the file / directory structure. 
@@ -22,7 +22,7 @@ Within the context of Lean, a peer-reviewed formalisation is Lean code which has
 8. Integration: An appropriate level of effort has been put in to integrate the results into existing libraries where appropriate and to avoid duplicating existing work.
 9. Citations: The appropriate citations are included within the formalisation to other works (formal and informal) that are used.
 
-## Tips to getting to a peer-review formalization
+## Tips to getting to a peer-reviewed formalization
 
 To get past the peer-review process, and help write the best code possible, there are a number of things we think you can do to help:
 - Submit your code in small reasonable pull-requests to existing libraries which uphold the peer-review standards above.
