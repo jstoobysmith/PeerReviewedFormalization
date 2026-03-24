@@ -21,12 +21,26 @@ Within the context of Lean, a peer-reviewed formalisation is Lean code which has
 7. Motivation of formulations: The motivation for a particular formulation of a result is well thought-through and where appropriate other experts consulted. 
 8. Integration: An appropriate level of effort has been put in to integrate the results into existing libraries where appropriate and to avoid duplicating existing work.
 9. Citations: The appropriate citations are included within the formalisation to other works (formal and informal) that are used.
+10. Attribution: The appropriate contributors are attributed to the project.
 
 ## Tips to getting to a peer-reviewed formalization
 
-To get past the peer-review process, and help write the best code possible, there are a number of things we think you can do to help:
+There are two parts of the peer-review process you should consider when preparing your formalisation. 
+
+First, the peer-review process requires an independent reviewer to put their name, 
+or the name of their organisation behind your formalisation. Because of this, your formalisation should 
+uphold strong principles of ethics, fairness, and academic integrity. 
+You should avoid placing a reviewer in a position where endorsing your 
+formalisation could be seen as professionally questionable. 
+Examples of ethical risks include: 
+- Building directly on recent work without consulting the authors thereof (scooping).
+- Failing to properly attribute foundational ideas or contributions.
+- Misrepresenting prior work. 
+
+
+Second, beyond avoiding ethical issues, there are a number of practical steps you can take to help make your formalisation easier to review and more likely to receive a favourable assessment. These steps concern the conduct of the formalisation process and your engagement with the community:
 - Submit your code in small reasonable pull-requests to existing libraries which uphold the peer-review standards above.
 - Communicate publicly with others in the Lean community during the process of your formalization, as they may have other ideas about the form of the results, structure etc.
-- Make sure you understand, can read, and can answer questions about your formalization. If you can't it is unlikely that a reviewer can, and it is unlikely to have a favorable peer-review.
+- Make sure you understand, can read, and can answer questions about your formalization. If you can't, it is unlikely that a reviewer can, and it is unlikely to have a favorable peer-review.
 - Be patient. As with the traditional peer-review system reviewing can take a long time, it's part of the process.
 - Try and identify others working on the same thing or in the same direction, and consider discussing and collaborating with them.
