@@ -4,6 +4,9 @@ See the dicussion below for more context:
 
 https://leanprover.zulipchat.com/#narrow/channel/113488-general/topic/The.20role.20of.20AI.20companies.20in.20large.20formalisation.20projects/near/581127896
 
+This document outlines the definition of a peer-reviewed formalisation. We propose this definition for the Lean proof assistant, but we hold the same principles to be equally applicable to projects using other proof assistants.
+
+Importantly, the peer-review of a paper describing a formalisation does not necessarily consitute the peer-review of the formalisation itself. 
 
 ## The definition 
 
@@ -18,8 +21,6 @@ Within the context of Lean, a peer-reviewed formalisation is Lean code which has
 7. Motivation of formulations: The motivation for a particular formulation of a result is well thought-through and where appropriate other experts consulted. 
 8. Integration: An appropriate level of effort has been put in to integrate the results into existing libraries where appropriate and to avoid duplicating existing work.
 9. Citations: The appropriate citations are included within the formalisation to other works (formal and informal) that are used.
-
-We propose this definition for the Lean proof assistant, but we hold the same principles to be equally applicable to projects using other proof assistants.
 
 ## Tips to getting to a peer-review formalization
 
